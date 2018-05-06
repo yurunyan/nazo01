@@ -1,0 +1,8 @@
+name: nazo
+version: 1.0.1
+main: nazo01.plugin.nazo01
+commands:
+  nazo:
+    description: nazo
+    usage: /<command>
+    default: true 
